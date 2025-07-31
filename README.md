@@ -3,6 +3,10 @@
 ## 🧠 Project Overview
 I designed and developed a dynamic HR Analytics Dashboard using Power BI to provide HR departments with real-time insights into employee attrition, demographics, salary structure, and departmental trends. The goal was to support strategic workforce planning and enhance data-driven HR decision-making.
 
+### Dataset Link:
+Google Drive: "https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og"
+Format: CSV (119,390 rows × 32 columns)
+
 ## 📊 Key Dashboard Metrics (KPIs)
 - Overall Employees: 1,470
 - Total Attrition: 238 employees
