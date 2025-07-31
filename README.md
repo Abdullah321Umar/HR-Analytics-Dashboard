@@ -4,13 +4,13 @@
 I designed and developed a dynamic HR Analytics Dashboard using Power BI to provide HR departments with real-time insights into employee attrition, demographics, salary structure, and departmental trends. The goal was to support strategic workforce planning and enhance data-driven HR decision-making.
 
 ## 📊 Key Dashboard Metrics
-### Overall Employees: 1,470
-### Total Attrition: 238 employees
-### Attrition Rate: 16.2%
-### Average Age: 37 years
-### Average Salary: 6.5K
-### Average Years at Company: 7.0
-### Visual Insights & Components
+- Overall Employees: 1,470
+- Total Attrition: 238 employees
+- Attrition Rate: 16.2%
+- Average Age: 37 years
+- Average Salary: 6.5K
+- Average Years at Company: 7.0
+- Visual Insights & Components
 
 ## ✅ Attrition by Education
 Donut chart breakdown of employees' educational background — Life Sciences (37%), Medical (26%), Marketing, Technical, etc. — highlighting which groups experience the most turnover.
