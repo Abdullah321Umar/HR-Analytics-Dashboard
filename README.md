@@ -36,21 +36,21 @@ Bar chart analysis revealing that Laboratory Technicians (62) and Sales Executiv
 
 ## 🧩 Job Role Analysis Table
 A detailed table breaks down attrition by job roles and tenure (years 1 to 5), offering granular insights. The roles with the highest total headcount and turnover include:
-Sales Executive – 329 total
-Research Scientist – 293 total
-Laboratory Technician – 261 total
+- Sales Executive – 329 total
+- Research Scientist – 293 total
+- Laboratory Technician – 261 total
 
 ## 🛠 Tools & Techniques Used
-Power Query: For data preparation and transformation
-DAX: Used to calculate KPIs like attrition rate, average tenure, and salary insights
-Visual Elements: Utilized bar charts, donut charts, line graphs, and KPI cards for storytelling
-Interactivity: Enabled slicers for department filtering, drill-through analysis, and tooltips
+- Power Query: For data preparation and transformation
+- DAX: Used to calculate KPIs like attrition rate, average tenure, and salary insights
+- Visual Elements: Utilized bar charts, donut charts, line graphs, and KPI cards for storytelling
+- Interactivity: Enabled slicers for department filtering, drill-through analysis, and tooltips
 
 ## 🚀 Business Impact
-Identified early-stage attrition patterns for better onboarding and engagement strategies
-Highlighted education and salary-related turnover trends
-Enabled HR leaders to track department-specific issues and take targeted action
-Improved transparency and reporting through interactive visual storytelling
+- Identified early-stage attrition patterns for better onboarding and engagement strategies
+- Highlighted education and salary-related turnover trends
+- Enabled HR leaders to track department-specific issues and take targeted action
+- Improved transparency and reporting through interactive visual storytelling
 
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
