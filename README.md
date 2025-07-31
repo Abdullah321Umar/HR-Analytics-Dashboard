@@ -5,7 +5,7 @@ I designed and developed a dynamic HR Analytics Dashboard using Power BI to prov
 
 ### Dataset Link:
 Google Drive: "https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og"
-Format: CSV (119,390 rows × 32 columns)
+Format: CSV (16348rows × 1048576columns)
 
 ## 📊 Key Dashboard Metrics (KPIs)
 - Overall Employees: 1,470
