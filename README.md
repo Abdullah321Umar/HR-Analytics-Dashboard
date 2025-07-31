@@ -50,3 +50,4 @@ Improved transparency and reporting through interactive visual storytelling
 
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
+### 📧 Email: umerabdullah048@gmail.com
