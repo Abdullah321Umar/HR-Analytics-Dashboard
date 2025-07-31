@@ -48,3 +48,5 @@ Highlighted education and salary-related turnover trends
 Enabled HR leaders to track department-specific issues and take targeted action
 Improved transparency and reporting through interactive visual storytelling
 
+## 🔗 Connect
+### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
