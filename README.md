@@ -55,3 +55,7 @@ A detailed table breaks down attrition by job roles and tenure (years 1 to 5), o
 ## 🔗 Connect
 ### 💼 LinkedIn: https://www.linkedin.com/in/abdullah-umar-730a622a8/
 ### 📧 Email: umerabdullah048@gmail.com
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/Abdullah321Umar/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png)
